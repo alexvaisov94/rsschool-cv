@@ -23,3 +23,5 @@
     * CSS
     * HTML
     * JS
+## Education:
+    - Mogilev Engineering College (engineer of mechanical engineering)
