@@ -11,3 +11,8 @@
    - It is my logan for life.  I haven't got an experience in programming, but have got a huge wish to study.
  ## Programming languages:
    * HTML, CSS, JS (beginner), VCS Git.
+## Code Examples
+```javascript
+      if (isAwesome){
+        return true
+      }
