@@ -16,3 +16,10 @@
       if (isAwesome){
         return true
       }
+```
+
+## Experience:
+* **Learning platforms** (courses)
+    * CSS
+    * HTML
+    * JS
