@@ -26,9 +26,7 @@
 ## Education:
     - Mogilev Engineering College (engineer of mechanical engineering)
 ## Languages:
-Languages    |   level
--------------|:-------------:
-_Belarusian_ | C1
-_Russian_    | C2
-_Polish_     | B2
-_English_    | A2
+**_Belarusian_  C1**
+**_Russian_     C2**
+**_Polish_      B2**
+**_English_     A2**
